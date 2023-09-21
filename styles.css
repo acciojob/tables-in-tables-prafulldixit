@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 #idn table, td,th,tr, div {
-	border: 2px solid black;
+	border: 1px solid black;
 }
 #id1 td{
 	background= black;
